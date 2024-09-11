@@ -18,4 +18,4 @@ For version 6.x and newer please visit
 
 ## License
 
-This project is licensed under the MIT License.
+ISAAC OMAR REYES LARA
